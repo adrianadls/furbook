@@ -8,19 +8,14 @@ function Descriptions() {
         <div className="col">
           <h5 className="title-text">Real Cats</h5>
           <p className="sub-text">
-            Contrary to popular belief, cats aren't loners. At furbook, we know
-            cats need friendship, affection, and comradery. It is our core
-            belief that beneath every cat's hard, angry, exterior there is a pet
-            who jus wants to play and cuddle with a friend
+            I like dogs. Dogs are cute. Dogs are loving and playful.
+             Dogs usually dont bite. And more often than not you won't see them fight.
           </p>
         </div>
         <div className="col">
           <h5 className="title-text">Real Dogs</h5>
           <p className="sub-text">
-            Dogs are man's best friend. But dogs can also be dog's best friend.
-            Maybe even bester than man's best friend. On furbook, you can find
-            millions of other dogs who can be a loyal companion, trusted
-            confidant, and reliable wrestling partner
+            Dogs are your friend. Dogs aren't mean. I love dogs and dogs love me.
           </p>
         </div>
         <div className="col">
